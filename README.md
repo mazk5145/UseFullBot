@@ -1,2 +1,1 @@
 # UseFullBot
-d
